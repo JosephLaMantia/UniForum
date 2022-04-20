@@ -1,0 +1,7 @@
+{
+  "name": "UniWiki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

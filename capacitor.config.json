@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "UniWiki",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
